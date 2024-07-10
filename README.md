@@ -12,8 +12,7 @@ type=rounded&color=timeGradient&text=사과%20톡톡톡!%20트로피카나!%20�
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=zczc729)](https://github.com/bi-sz/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zczc729)](https://github.com/bi-sz/velog-readme-stats)
 </div><br>
 
 - ![zczc729's GitHub stats](https://github-readme-stats.vercel.app/api?username=zczc729&show_icons=true&theme=dark)
