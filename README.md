@@ -1,24 +1,20 @@
-## Hi there 👋
+# 사과 톡톡톡! 트로피카나!
 
-**zczc729/zczc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=사과%20톡톡톡!%20트로피카나!%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzczc729&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Velog 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@zczc729/posts">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
+ api?name=zczc729)](https://github.com/bi-sz/velog-readme-stats)
+</div><br>
 
-- ![zczc729's GitHub stats](https://github-readme-stats.vercel.app/api?username=zczc729&show_icons=true&theme=radical)
+- ![zczc729's GitHub stats](https://github-readme-stats.vercel.app/api?username=zczc729&show_icons=true&theme=dark)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zczc729&layout=compact)
